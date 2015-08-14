@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branching allows you to work on changes to your project without affecting the original project. When the first new branch of a project is created, it diverges away from the current branch (the master branch) and allows you to work independently on any changes you wish to make to the original project. The new branch can then be merged with other branches as and when you wish to consolidate the work you've done on the new branch with the original project.  
