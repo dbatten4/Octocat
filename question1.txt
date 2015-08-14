@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone is used to pull remote repositories to a local computer. When git clone is called a local directory is created and initialised with a remote between the local and remote repositories added. The files and directories of the remote repo are then pulled to the local repo.  
