@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for, in your own words
+Sometimes you may want to copy someone else's repository into your own Github. This allows you to make changes to the repository without affecting the original project. This is known as forking and the original repository is known as the upstream. An upstream remote is created in order to pull changes from the upstream to the copied repository in your own Github.
+ 
